@@ -64,6 +64,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shared_ca2_lowluds_ai_form"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nano2d", "..\source\app\nano2d\nano2d.vcxproj", "{5C621AC9-FF29-484B-83E2-377E051C2CFC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "operating_ambient_windows", "..\operating_system\operating_system-windows\operating_ambient_windows\operating_ambient_windows.vcxproj", "{582D9C3D-77BB-44C9-962B-C4BA36713049}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -776,6 +778,30 @@ Global
 		{5C621AC9-FF29-484B-83E2-377E051C2CFC}.StaticRelease|Win32.Build.0 = StaticRelease|Win32
 		{5C621AC9-FF29-484B-83E2-377E051C2CFC}.StaticRelease|x64.ActiveCfg = StaticRelease|x64
 		{5C621AC9-FF29-484B-83E2-377E051C2CFC}.StaticRelease|x64.Build.0 = StaticRelease|x64
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.Debug|Win32.ActiveCfg = Debug|Win32
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.Debug|Win32.Build.0 = Debug|Win32
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.Debug|x64.ActiveCfg = Debug|x64
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.Debug|x64.Build.0 = Debug|x64
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.Release|Win32.ActiveCfg = Release|Win32
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.Release|Win32.Build.0 = Release|Win32
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.Release|x64.ActiveCfg = Release|x64
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.Release|x64.Build.0 = Release|x64
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.StaticDebug|Win32.ActiveCfg = StaticDebug|Win32
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.StaticDebug|Win32.Build.0 = StaticDebug|Win32
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.StaticDebug|x64.ActiveCfg = StaticDebug|x64
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.StaticDebug|x64.Build.0 = StaticDebug|x64
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.StaticMetaDebug|Win32.ActiveCfg = DebugWithInlOpt|Win32
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.StaticMetaDebug|Win32.Build.0 = DebugWithInlOpt|Win32
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.StaticMetaDebug|x64.ActiveCfg = DebugWithInlOpt|x64
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.StaticMetaDebug|x64.Build.0 = DebugWithInlOpt|x64
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.StaticMetaRelease|Win32.ActiveCfg = DebugWithInlOpt|Win32
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.StaticMetaRelease|Win32.Build.0 = DebugWithInlOpt|Win32
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.StaticMetaRelease|x64.ActiveCfg = DebugWithInlOpt|x64
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.StaticMetaRelease|x64.Build.0 = DebugWithInlOpt|x64
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.StaticRelease|Win32.ActiveCfg = StaticRelease|Win32
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.StaticRelease|Win32.Build.0 = StaticRelease|Win32
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.StaticRelease|x64.ActiveCfg = StaticRelease|x64
+		{582D9C3D-77BB-44C9-962B-C4BA36713049}.StaticRelease|x64.Build.0 = StaticRelease|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
